@@ -89,7 +89,3 @@ JavaScript community for resources and best practices.
 Add advanced operations like square roots, exponents, and percentage.
 Implement keyboard support for user input.
 Display a history of previous calculations.
-👨‍💻 Author
-Vaibhav Shete
-Connect with me on LinkedIn
-Follow me on GitHub
